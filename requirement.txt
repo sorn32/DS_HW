@@ -1,0 +1,4 @@
+gradio
+opencv-python
+scikit-image
+numpy
